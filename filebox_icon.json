@@ -1,6 +1,6 @@
 {
     "name":"Filebox icons",
-    "description":"By Leo",
+    "description":"By ssfun",
     "icons":[
         {
             "name":"Terminus",
@@ -69,18 +69,6 @@
         {
             "name":"laji",
             "url":"https://raw.githubusercontent.com/Arch3r777/icons/master/lajiyingyin.PNG"
-        },
-        {
-            "name":"orange",
-            "url":"https://raw.githubusercontent.com/Boice522/emby/main/orange.png"
-        },
-        {
-            "name":"maoxiong",
-            "url":"https://raw.githubusercontent.com/Boice522/emby/main/maoxiong.png"
-        },
-        {
-            "name":"mjj",
-            "url":"https://raw.githubusercontent.com/Boice522/emby/main/mjj.png"
         }
     ]
 }
